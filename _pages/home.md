@@ -3,4 +3,4 @@ layout: single
 permalink: /
 ---
 
-Hello, Chicktech!!!
+Weirdos
